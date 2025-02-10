@@ -1,5 +1,5 @@
 # :joystick: Dune-2000-balance-patch :joystick:
-The balance patch returning back to the online game **Ordos** house and some unused units and buildings
+This patch reintroduces the Ordos house to online play, along with some previously unused units and buildings.
 
 ## :receipt: Change-list :receipt:
 

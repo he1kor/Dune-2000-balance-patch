@@ -63,7 +63,7 @@ The balance patch returning back to the online game **Ordos** house and some unu
   - **Trike** replaced with **Raider** (for **Ordos**)
 
 - added **Sniper** unit:
-   - available for **Ordos** with _upgraded **Barracks_** and **Outpost**
+   - available for **Ordos** with _upgraded **Barracks**_ and **Outpost**
    - price: $250
    - build speed: 55
    - speed: 18

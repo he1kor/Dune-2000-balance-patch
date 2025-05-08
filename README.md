@@ -28,7 +28,7 @@ This patch reintroduces the Ordos house to online play, along with some previous
   - can now be repaired
 
 - **Outpost**:
-  - sight rangeincreased from 3 to 7
+  - sight range increased from 3 to 7
 
 - **Devastator**:
   - removed self-healing

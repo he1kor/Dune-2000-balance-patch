@@ -42,6 +42,7 @@ This patch reintroduces the Ordos house to online play, along with some previous
 
 - **Stealth raider**: 
   - now placed within the _light factory units_ in the unit build bar
+  - now requires IX research center instead of high tech factory
   - removed _light factory upgrade_ requirement
 
 - **Grenadier**:
@@ -52,27 +53,27 @@ This patch reintroduces the Ordos house to online play, along with some previous
   - Ordos' starter **Light infantry** replaced with **Grenadier**
 
 - **Deviator**:
-  - speed increased from 20 to 22
+  - speed increased from 20 to 24
+  - turn speed increased from 2 to 1
   - build speed increased from 20 to 22
   - price reduced from 1000 to 950
-  - bullets are homing now
-  - fire rate slowed down from 160 to 170
+  - bullets are 2x faster now (leads to better accuracy)
 
 - **Starport**:
-  - **Carryall** replaced with **NS Fremen**, **Sniper**, **MP Sardaukar** (for **Atreides**, **Ordos**, **Harkonnen** respectively)
+  - **Carryall** replaced with **Sniper**, **Grenadier**, **MP Sardaukar** (for **Atreides**, **Ordos**, **Harkonnen** respectively)
   - **Trike** replaced with **Raider** (for **Ordos**)
 
 - added **Sniper** unit:
-   - available for **Ordos** with _upgraded **Barracks**_ and **Outpost**
+   - available for **Atreides** with _upgraded **Barracks**_ and **Outpost**
    - price: $250
    - build speed: 55
    - speed: 18
    - health" 500
    - sight range: 5
    - rate of fire: 200
-   - range: 184
-   - damage: 900
-   - the **Sniper**'s weapon is effective against _wood armor_, deals normal damage to _light armor_, and is mostly ineffective against _heavy armor_.
+   - range: 176
+   - damage: 1000
+   - the **Sniper**'s weapon is effective against _wood armor_, deals normal damage to _light armor_ and harvesters, and is mostly ineffective against _heavy armor_.
 
 ## :file_folder: Installing :file_folder:
 

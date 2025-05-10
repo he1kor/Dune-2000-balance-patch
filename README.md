@@ -42,38 +42,37 @@ This patch reintroduces the Ordos house to online play, along with some previous
 
 - **Stealth raider**: 
   - now placed within the _light factory units_ in the unit build bar
-  - now requires _IX research center_ instead of _High tech factory_
   - removed _light factory upgrade_ requirement
 
 - **Grenadier**:
   - house changed from **Atreides** to **Ordos**
   - removed explosion upon death
   - now placed within the _barracks units_ in the unit build bar
-  - Atreides' starting **Grenadier** replaced with **Sniper**
+  - Atreides' starting **Grenadier** replaced with **NS Fremen**
   - Ordos' starter **Light infantry** replaced with **Grenadier**
 
 - **Deviator**:
-  - speed increased from 20 to 24
-  - turning speed increased from 2 to 1
+  - speed increased from 20 to 22
   - build speed increased from 20 to 22
   - price reduced from 1000 to 950
-  - bullets are 2x faster now (which leads to higher accuracy)
+  - bullets are homing now
+  - fire rate slowed down from 160 to 170
 
 - **Starport**:
-  - **Carryall** replaced with **Sniper**, **Grenadier**, **MP Sardaukar** (for **Atreides**, **Ordos**, **Harkonnen** respectively)
+  - **Carryall** replaced with **NS Fremen**, **Sniper**, **MP Sardaukar** (for **Atreides**, **Ordos**, **Harkonnen** respectively)
   - **Trike** replaced with **Raider** (for **Ordos**)
 
 - added **Sniper** unit:
-   - available for **Atreides** with _upgraded **Barracks**_ and **Outpost**
+   - available for **Ordos** with _upgraded **Barracks**_ and **Outpost**
    - price: $250
    - build speed: 55
    - speed: 18
    - health" 500
    - sight range: 5
    - rate of fire: 200
-   - range: 176
-   - damage: 1000
-   - the **Sniper**'s weapon is effective against _wood armor_, deals normal damage to _light armor_ and _harvesters_, and is mostly ineffective against _heavy armor_.
+   - range: 184
+   - damage: 900
+   - the **Sniper**'s weapon is effective against _wood armor_, deals normal damage to _light armor_, and is mostly ineffective against _heavy armor_.
 
 ## :file_folder: Installing :file_folder:
 

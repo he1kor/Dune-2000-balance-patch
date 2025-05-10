@@ -42,12 +42,17 @@ This patch reintroduces the Ordos house to online play, along with some previous
 
 - **Stealth raider**: 
   - now placed within the _light factory units_ in the unit build bar
+<<<<<<< HEAD
+=======
+  - now requires _IX research center_ instead of _High tech factory_
+>>>>>>> master
   - removed _light factory upgrade_ requirement
 
 - **Grenadier**:
   - house changed from **Atreides** to **Ordos**
   - removed explosion upon death
   - now placed within the _barracks units_ in the unit build bar
+<<<<<<< HEAD
   - Atreides' starting **Grenadier** replaced with **NS Fremen**
   - Ordos' starter **Light infantry** replaced with **Grenadier**
 
@@ -64,15 +69,39 @@ This patch reintroduces the Ordos house to online play, along with some previous
 
 - added **Sniper** unit:
    - available for **Ordos** with _upgraded **Barracks**_ and **Outpost**
+=======
+  - Atreides' starting **Grenadier** replaced with **Sniper**
+  - Ordos' starter **Light infantry** replaced with **Grenadier**
+
+- **Deviator**:
+  - speed increased from 20 to 24
+  - turning speed increased from 2 to 1
+  - build speed increased from 20 to 22
+  - price reduced from 1000 to 950
+  - bullets are 2x faster now (which leads to higher accuracy)
+
+- **Starport**:
+  - **Carryall** replaced with **Sniper**, **Grenadier**, **MP Sardaukar** (for **Atreides**, **Ordos**, **Harkonnen** respectively)
+  - **Trike** replaced with **Raider** (for **Ordos**)
+
+- added **Sniper** unit:
+   - available for **Atreides** with _upgraded **Barracks**_ and **Outpost**
+>>>>>>> master
    - price: $250
    - build speed: 55
    - speed: 18
    - health" 500
    - sight range: 5
    - rate of fire: 200
+<<<<<<< HEAD
    - range: 184
    - damage: 900
    - the **Sniper**'s weapon is effective against _wood armor_, deals normal damage to _light armor_, and is mostly ineffective against _heavy armor_.
+=======
+   - range: 176
+   - damage: 1000
+   - the **Sniper**'s weapon is effective against _wood armor_, deals normal damage to _light armor_ and _harvesters_, and is mostly ineffective against _heavy armor_.
+>>>>>>> master
 
 ## :file_folder: Installing :file_folder:
 

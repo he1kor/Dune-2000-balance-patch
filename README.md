@@ -24,7 +24,7 @@ This patch reintroduces the Ordos house to online play, along with some previous
   - speed increased from 64 to 90
 
 - **Wall**:
-  - production speed increased from 180 to 240
+  - production speed increased from 180 to 270
   - can now be repaired
 
 - **Outpost**:

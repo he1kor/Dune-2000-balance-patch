@@ -24,7 +24,7 @@ This patch reintroduces the Ordos house to online play, along with some previous
   - speed increased from 64 to 90
 
 - **Wall**:
-  - production speed increased from 180 to 360
+  - production speed increased from 180 to 240
   - can now be repaired
 
 - **Outpost**:
@@ -45,6 +45,9 @@ This patch reintroduces the Ordos house to online play, along with some previous
   - now requires IX research center instead of high tech factory
   - removed _light factory upgrade_ requirement
 
+- **Ordos combat tank**:
+  - production speed increased from 26 to 28
+
 - **Grenadier**:
   - house changed from **Atreides** to **Ordos**
   - removed explosion upon death
@@ -57,7 +60,7 @@ This patch reintroduces the Ordos house to online play, along with some previous
   - turn speed increased from 2 to 1
   - build speed increased from 20 to 22
   - price reduced from 1000 to 950
-  - bullets are 2x faster now (leads to better accuracy)
+  - bullets are 1.5x faster now (leads to better accuracy)
 
 - **Starport**:
   - **Carryall** replaced with **Sniper**, **Grenadier**, **MP Sardaukar** (for **Atreides**, **Ordos**, **Harkonnen** respectively)
@@ -73,16 +76,11 @@ This patch reintroduces the Ordos house to online play, along with some previous
    - rate of fire: 200
    - range: 176
    - damage: 1000
-   - the **Sniper**'s weapon is effective against _wood armor_, deals normal damage to _light armor_ and harvesters, and is mostly ineffective against _heavy armor_.
+   - the **Sniper**'s weapon is effective against _wood armor_, deals weaker damage to _light armor_ and harvesters, and is mostly ineffective against _heavy armor_.
 
 ## :file_folder: Installing :file_folder:
 
 :warning:To install the files, make a backup of your original Dune 2000 files so you can revert to the original version if needed.:warning:
 
-In the repository files are spreaded based on their destination folders.
-Paste and overwrite each file into the following Dune 2000 folders:
-| File      | Destination   |
- |-----------|---------------|
- | **DATA.R16**     | _[root]_/data/  |
- | _**.BIN**_ and _**.bin**_   | _[root]_/data/bin/  |
- | **Text.uib**| _[root]_/data/UI_DATA/  |
+Paste and overwrite Data folder into the Dune 2000 root folder.
+
